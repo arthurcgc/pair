@@ -52,4 +52,4 @@ Each type has a corresponding pair struct (e.g., intPair, stringPair) that imple
 
 #### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
