@@ -49,3 +49,7 @@ The Pair package supports the following types:
 - `bool`
 
 Each type has a corresponding pair struct (e.g., intPair, stringPair) that implements the Pair interface. Each pair struct has First and Second methods that return the first and second values of the pair, respectively.
+
+#### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
